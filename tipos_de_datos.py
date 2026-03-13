@@ -24,5 +24,5 @@ def main():
     datos()
     tipos_datos_compuestos()
 
-if __name__ == "__main__":
+if __name__ == "__main__": 
     main()
